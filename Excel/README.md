@@ -83,13 +83,3 @@ This project provides a comprehensive analytical framework for understanding sal
 
 ---
 
-## How to View the Project
-1.  Clone this repository to your local machine:
-    ```bash
-    git clone [https://github.com/](https://github.com/)[Your_Username]/[Your_Repo_Name].git
-    ```
-2.  Navigate to the `EXCEL` folder within the repository.
-3.  Open the main Excel workbook files (e.g., `Devang Project-BlinkIT Grocery Data.xlsx` and `Devang- Sales Analysis Project.xlsx`) in Microsoft Excel.
-4.  Explore the various sheets, which typically include raw data, analysis tables, and interactive dashboards, to see the complete analysis.
-
----
