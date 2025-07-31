@@ -86,14 +86,3 @@ Social media thrives on user engagement. Understanding what drives likes, commen
 - Manual data enrichment (for gender, age, location)
 
 ---
-
-## 🤝 Collaborate or Use This Project
-
-Feel free to fork, reuse, or contribute to this project!  
-Got suggestions or questions? Open an issue or start a discussion.
-
----
-
-## 📌 License
-
-This project is licensed under the MIT License.
