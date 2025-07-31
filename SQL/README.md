@@ -102,13 +102,3 @@ Devang Kumawat
 * [cite_start]**Nested Queries:** Identified cities where the highest sales were greater than the average sales across all regions (e.g., New York City, Jacksonville, Lafayette, Seattle). [cite: 110]
 * [cite_start]**Window Functions:** Ranked products by their profit within each category. [cite: 112]
 * [cite_start]**Pivot Table:** Created a pivot table showing total sales for each category across regions. [cite: 114]
-
-## How to View the Project
-1.  Clone this repository to your local machine:
-    ```bash
-    git clone [https://github.com/](https://github.com/)[Your_Username]/[Your_Repo_Name].git
-    ```
-2.  Navigate to the respective project directory (e.g., `Pizza_Sales_Analysis` or `Superstore_Sales_Analysis`).
-3.  The SQL queries are typically found within `.sql` files or can be directly run in MySQL Workbench against the corresponding datasets (which would need to be imported if not already set up).
-
----
